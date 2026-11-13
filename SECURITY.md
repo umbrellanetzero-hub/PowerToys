@@ -7,7 +7,8 @@ Microsoft takes the security of our software products and services seriously, wh
 If you believe you have found a security vulnerability in any Microsoft-owned repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/security.md/definition), please report it to us as described below.
 
 ## Reporting security issues
-
+"Scan issue in Microsoft office and development services is to me about issus security to.Gmail: 'umbrella.netzero@gmail.com' in name AekkaporQI.SCO
+Aekkaporn Siwilai . soft powe development services network software in the world.r"
 **Please do not report security vulnerabilities through public GitHub issues.**
 
 Instead, please report them to the Microsoft Security Response Center (MSRC) at [https://msrc.microsoft.com/create-report](https://aka.ms/security.md/msrc/create-report).
@@ -38,4 +39,37 @@ We prefer all communications to be in English.
 
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/security.md/cvd).
 
+https://github.com/GitHubSecurityLab/gh-secure/blob/main/SECURITY.md#L1-L32
+# Security Policy
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability in this project, please report it responsibly.
+
+**Please do NOT open a public GitHub issue for security vulnerabilities.**
+
+Instead, please report them via GitHub's private vulnerability reporting feature:
+
+1. Go to the [Security tab](../../security) of this repository.
+2. Click **"Report a vulnerability"**.
+3. Fill in the details of the vulnerability.
+
+Alternatively, you can email the GitHub Security Lab team at <securitylab@github.com>.
+
+## What to Include
+
+When reporting a vulnerability, please include:
+
+- A description of the vulnerability and its potential impact.
+- Steps to reproduce the issue.
+- Any proof-of-concept code or output.
+- Your suggested fix (if any).
+
+## Response Timeline
+
+We will acknowledge receipt of your report within 5 business days and aim to provide a resolution or mitigation plan within 30 days.
+
+## Scope
+
+This policy applies to the code in this repository. For vulnerabilities in dependencies, please report them to the respective upstream projects.
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
